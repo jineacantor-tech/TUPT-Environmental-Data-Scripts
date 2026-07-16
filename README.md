@@ -22,6 +22,7 @@ I actively merge data scripting with official frameworks provided by internation
 * **UNECE Certification**: Convention on Long-range Transboundary Air Pollution.
 * **UNECE Certification**: Monitoring Air Pollution Effects under the Convention on LRTAP.
 * **UNECE Certification**: Emission Reporting Methodologies under Long-range Transboundary Air Pollution.
+* **UNECE Certification**: An Introduction to Climate Change and Human Rights.
 * **IMO (GreenVoyage2050)**: Technical implementation strategies for Energy Saving at Sea.
 * **Zooniverse Contributor**: Completed 9.5 hours of global citizen science data classification for disaster response (Planetary Response Network: Venezuela Earthquake Event).
 * **POSITION GREEN**: Completed the online course (The Circular Economy).
